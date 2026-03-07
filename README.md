@@ -12,7 +12,7 @@ In order to to find the necceary angle/postion of the servo motors at each posti
 
 This diagram now presents a high level overiew of that python script
 
-![UpdatedCodeDiagram](https://github.com/user-attachments/assets/f503f480-58f7-46e0-8be9-8c5e3cb12d1a)
+![4MathFunctions](https://github.com/user-attachments/assets/8374171a-105b-447a-8faf-97ef3029f9f7)
 
 This script was designed to help us analyize the walking gait and verify our inverse kinamatic equations, thus it takes the calculations and splits it in to x and y coordinated dictionaries because these are neccesary for the animation function work. Final version of the code will out put andgles or positions for the motors. 
 
