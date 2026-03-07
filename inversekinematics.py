@@ -64,9 +64,6 @@ def angle (opposite, adjacent): # finds angle using arctan
     else:
         return math.atan(opposite/adjacent)
 
-def lawOfCosineSide (side1, side2, oppositeangle): # uses law of cosines to find missing side
-    return math.sqrt((side1**2) + (side2**2) - (2 * side1 * side2 * math.cos(oppositeangle)))
-
 def lawOfCosineAngle (side1, side2, oppositeSide): # uses law of cosines to find the missing angle
     return math.acos(((oppositeSide**2) - (side1**2) - (side2**2)) / (-2 * side1 * side2))
 
