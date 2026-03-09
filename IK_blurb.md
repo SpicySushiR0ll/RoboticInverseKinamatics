@@ -1,6 +1,3 @@
-Hello!
-
-My names is Gabriel Carrillo and this a quick overview of some of the work I have done on my senior design project Bring Roar to Life!
 
 The goal of the project was to assemble an afforable quadraped robot resembling a dinosaur of our choosing (we chose to go with an ankylosaurus). In order to accomplish this, we decided to base our design on boston dynamics mini. For the leg configuration, we went with a 5 bar linkage system powered by two servo motors allowing. 
 
@@ -14,7 +11,7 @@ This diagram now presents a high level overiew of that python script
 
 ![4MathFunctions](https://github.com/user-attachments/assets/8374171a-105b-447a-8faf-97ef3029f9f7)
 
-This script was designed to help us analyize the walking gait and verify our inverse kinamatic equations, thus it takes the calculations and splits it in to x and y coordinated dictionaries because these are neccesary for the animation function work. Final version of the code will out put andgles or positions for the motors. 
+This script was designed to help us analyize the walking gait and verify our inverse kinamatic equations, thus we used our calculated values to make an animation of the leg to ensure no erratic motion or linkage resizing was taking place. Final version of the code will out put andgles or positions for the motors. 
 
 This is the output of animation of the script
 
@@ -26,4 +23,4 @@ We also programed another verion in which the knee is facing bacwards in order t
 
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/01d14e40-9377-4f74-bd8d-a48926ccc480" />
 
-Further analysis of the walking gait will be conducted once parts are ordered and delivered and a version one of the final product (in this case final prototype as the scope of the project only goes as far as proving the capability of making a budget friendly walkng quardraped) is built. Comparison between the legs physical actions and expected actions will be compared in orde to further adjust and improve the python script.
+Further analysis of the walking gait will be conducted once parts are ordered and delivered and a version one of the final product (in this case final prototype as the scope of the project only goes as far as proving the capability of making a budget friendly walkng quardraped) is built. Comparison between the legs physical actions and expected actions will be compared in order to further adjust and improve the python script.
