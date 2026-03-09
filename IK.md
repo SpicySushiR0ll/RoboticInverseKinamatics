@@ -1,3 +1,4 @@
+## Inverse Kinematics
 
 The goal of the project was to assemble an afforable quadraped robot resembling a dinosaur of our choosing (we chose to go with an ankylosaurus). In order to accomplish this, we decided to base our design on boston dynamics mini. For the leg configuration, we went with a 5 bar linkage system powered by two servo motors allowing. 
 
@@ -11,9 +12,9 @@ This diagram now presents a high level overiew of that python script
 
 ![4MathFunctions](https://github.com/user-attachments/assets/8374171a-105b-447a-8faf-97ef3029f9f7)
 
-This script was designed to help us analyize the walking gait and verify our inverse kinamatic equations, thus we used our calculated values to make an animation of the leg to ensure no erratic motion or linkage resizing was taking place. Final version of the code will out put andgles or positions for the motors. 
+This script was designed to help us analyize the walking gait and verify our inverse kinamatic equations, thus we used our calculated values to make an animation of the leg to ensure no erratic motion or linkage resizing was taking place. Final version of the code will out put angles or positions for the motors. 
 
-This is the output of animation of the script
+The output animation of this script looks like this. Unfortunitey the gif was to big for this file so this still will have to do
 
 <img width="385" height="399" alt="image" src="https://github.com/user-attachments/assets/7f424f66-fc07-4534-8f34-043945d76193" />
 
